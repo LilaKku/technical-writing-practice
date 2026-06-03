@@ -38,3 +38,19 @@ The authentication service stores user credentials and access tokens.
 
 For End Users:
 Your login information is securely stored to keep your account protected.
+
+## AI-Assisted Documentation
+
+### Example Workflow
+
+1. Define the target audience
+2. Generate draft content using AI
+3. Review and verify accuracy
+4. Adjust terminology and tone
+5. Publish the final version
+
+### My Experience
+
+I use AI tools to create lesson materials, generate assessment items, and explore different ways of explaining concepts.
+
+The final content is always reviewed and revised based on the learners' needs and learning objectives.
