@@ -25,3 +25,16 @@ Through translation studies and teaching experience, I learned the importance of
 * GitHub
 * Documentation Structure
 * AI-assisted Documentation
+
+## Documentation Examples
+
+### Audience-Centered Writing
+
+Original Information:
+The system stores user authentication data.
+
+For Developers:
+The authentication service stores user credentials and access tokens.
+
+For End Users:
+Your login information is securely stored to keep your account protected.
