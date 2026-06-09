@@ -71,3 +71,18 @@ Create vocabulary materials appropriate for students' reading levels.
 **Output**
 - Vocabulary workbook
 - Practice tests
+
+- ### Grammar Visual Aid Development
+
+**Goal**
+Help students understand difficult grammar concepts.
+
+**Process**
+- Identify frequently misunderstood grammar points
+- Generate examples using AI tools
+- Create visual explanations and teaching materials
+- Revise content based on student feedback
+
+**Output**
+- Grammar visual aids
+- Supplementary classroom materials
