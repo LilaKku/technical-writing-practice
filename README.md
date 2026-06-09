@@ -54,3 +54,20 @@ Your login information is securely stored to keep your account protected.
 I use AI tools to create lesson materials, generate assessment items, and explore different ways of explaining concepts.
 
 The final content is always reviewed and revised based on the learners' needs and learning objectives.
+
+## Documentation Projects
+
+### Vocabulary Learning Material Development
+
+**Goal**
+Create vocabulary materials appropriate for students' reading levels.
+
+**Process**
+- Analyze reading passages and identify key vocabulary
+- Use Lexile measures to adjust difficulty
+- Organize vocabulary into learning materials
+- Create assessments based on selected vocabulary
+
+**Output**
+- Vocabulary workbook
+- Practice tests
