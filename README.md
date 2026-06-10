@@ -1,10 +1,12 @@
 # Technical Writing Practice
 
+
 ## About
 
 This repository contains personal notes and documentation practice materials.
 
 I created this repository to learn Markdown and documentation workflows commonly used in technical writing environments.
+
 
 ## Topics
 
@@ -12,6 +14,7 @@ I created this repository to learn Markdown and documentation workflows commonly
 * Knowledge Management
 * AI-assisted Writing
 * Terminology Management
+
 
 ## Why Technical Writing?
 
@@ -23,6 +26,7 @@ and audience-centered communication.
 These experiences led me to become interested in technical writing,
 where information is organized and delivered based on users' needs.
 
+
 ## My Experience
 
 I use AI tools to generate draft content,
@@ -31,6 +35,7 @@ and explore different ways of explaining concepts.
 
 All outputs are reviewed and refined based on
 audience needs, learning objectives, and content accuracy.
+
 
 ## Documentation Projects
 
