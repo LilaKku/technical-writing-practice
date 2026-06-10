@@ -26,28 +26,6 @@ Through translation studies and teaching experience, I learned the importance of
 * Documentation Structure
 * AI-assisted Documentation
 
-## Documentation Examples
-
-### Audience-Centered Writing
-
-Original Information:
-The system stores user authentication data.
-
-For Developers:
-The authentication service stores user credentials and access tokens.
-
-For End Users:
-Your login information is securely stored to keep your account protected.
-
-## AI-Assisted Documentation
-
-### Example Workflow
-
-1. Define the target audience
-2. Generate draft content using AI
-3. Review and verify accuracy
-4. Adjust terminology and tone
-5. Publish the final version
 
 ### My Experience
 
@@ -64,7 +42,7 @@ Create vocabulary materials appropriate for students' reading levels.
 
 **Process**
 - Analyze reading passages and identify key vocabulary
-- Use Lexile measures to adjust difficulty
+- Use Lexile measures (a reading level framework) to adjust difficulty
 - Organize vocabulary into learning materials
 - Create assessments based on selected vocabulary
 
@@ -79,7 +57,7 @@ Help students understand difficult grammar concepts.
 
 **Process**
 - Identify frequently misunderstood grammar points
-- Generate examples using AI tools
+- Generate and refine examples using AI tools based on student misconceptions
 - Create visual explanations and teaching materials
 - Revise content based on student feedback
 
