@@ -17,7 +17,8 @@ I created this repository to learn Markdown and documentation workflows commonly
 
 I am interested in organizing complex information and making it accessible to different audiences.
 
-Through translation studies and teaching experience, I learned the importance of clarity, consistency, and audience-centered communication.
+Through translation studies and teaching experience, I learned the importance of clarity, consistency, 
+and audience-centered communication.
 
 These experiences led me to become interested in technical writing,
 where information is organized and delivered based on users' needs.
@@ -36,7 +37,7 @@ audience needs, learning objectives, and content accuracy.
 ### Vocabulary Learning Material Development
 
 **Goal**
-Create vocabulary materials appropriate for students' reading levels.
+- Create vocabulary materials appropriate for students' reading levels.
 
 **Process**
 - Analyze reading passages and identify key vocabulary
@@ -48,10 +49,10 @@ Create vocabulary materials appropriate for students' reading levels.
 - Vocabulary workbook tailored to students' reading levels
 - Assessment materials based on selected vocabulary
 
-- ### Grammar Visual Aid Development
+### Grammar Visual Aid Development
 
 **Goal**
-Help students understand difficult grammar concepts.
+- Help students understand difficult grammar concepts.
 
 **Process**
 - Identify frequently misunderstood grammar points
