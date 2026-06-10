@@ -19,19 +19,17 @@ I am interested in organizing complex information and making it accessible to di
 
 Through translation studies and teaching experience, I learned the importance of clarity, consistency, and audience-centered communication.
 
-## Current Learning
+These experiences led me to become interested in technical writing,
+where information is organized and delivered based on users' needs.
 
-* Markdown
-* GitHub
-* Documentation Structure
-* AI-assisted Documentation
+## My Experience
 
+I use AI tools to generate draft content,
+create learning materials,
+and explore different ways of explaining concepts.
 
-### My Experience
-
-I use AI tools to create lesson materials, generate assessment items, and explore different ways of explaining concepts.
-
-The final content is always reviewed and revised based on the learners' needs and learning objectives.
+All outputs are reviewed and refined based on
+audience needs, learning objectives, and content accuracy.
 
 ## Documentation Projects
 
@@ -47,8 +45,8 @@ Create vocabulary materials appropriate for students' reading levels.
 - Create assessments based on selected vocabulary
 
 **Output**
-- Vocabulary workbook
-- Practice tests
+- Vocabulary workbook tailored to students' reading levels
+- Assessment materials based on selected vocabulary
 
 - ### Grammar Visual Aid Development
 
@@ -59,7 +57,7 @@ Help students understand difficult grammar concepts.
 - Identify frequently misunderstood grammar points
 - Generate and refine examples using AI tools based on student misconceptions
 - Create visual explanations and teaching materials
-- Revise content based on student feedback
+- Revise content based on student feedback and comphrension gaps
 
 **Output**
 - Grammar visual aids
